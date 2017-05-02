@@ -1,0 +1,9 @@
+1. git clone https://github.com/liudlcloud/coursera-test.git
+2. git status
+3. git checkout gh-pages
+4. git status
+5. mkdir site
+6. create files into site
+7. git add .    //把site目录整个加到git中
+8. it commit -m "My First page."   //本地文件提交
+9. git push   //服务器上的文件更新
