@@ -1,3 +1,5 @@
+
+
 1. git clone https://github.com/liudlcloud/coursera-test.git
 2. git status
 3. git checkout gh-pages
@@ -7,3 +9,6 @@
 7. git add .    //把site目录整个加到git中
 8. it commit -m "My First page."   //本地文件提交
 9. git push   //服务器上的文件更新
+10. < > & ===  &lt; &gt; &amp;
+11. &nbsp; 空格占位符，不然不管输入多少个空格，在浏览器中都是展示一个空格。另外，被&nbsp;连接的两个单词，不会被换行分割开
+12. 
